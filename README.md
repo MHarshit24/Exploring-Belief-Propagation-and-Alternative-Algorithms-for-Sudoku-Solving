@@ -6,11 +6,6 @@ This repository contains a comprehensive Sudoku solver built with Python, featur
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Algorithms](#algorithms)
-- [Future Work](#future-work)
-- [License](#license)
-
 ---
 
 ## Overview
