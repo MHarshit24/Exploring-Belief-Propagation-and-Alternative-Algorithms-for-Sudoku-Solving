@@ -1,4 +1,4 @@
-# Repository README
+# Exploring Belief Propagation and Alternative Algorithms for Sudoku Solving
 
 ## Overview
 This repository contains Python scripts implementing various Sudoku-solving algorithms with different approaches. Each script provides unique methods and functionalities for solving Sudoku puzzles, ranging from GUI-based interactive solvers to algorithmic solutions like backtracking, belief propagation, and constraint propagation.
